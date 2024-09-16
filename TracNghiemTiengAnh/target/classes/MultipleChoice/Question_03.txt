@@ -1,0 +1,8 @@
+3.Cau hoi Multiple Choice 3
+a,b,c
+b
+Dong tu
+De
+Ghi chu phuong an a
+Ghi chu phuong an b
+Ghi chu phuong an c

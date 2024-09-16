@@ -1,0 +1,20 @@
+Kho
+10.Day la doan van(incomplete) gom 6 khoang trong
+Cau hoi 1
+a,b,c,d
+c
+Cau hoi 2
+a,b,c,d
+c
+Cau hoi 3
+a,b,c,d
+d
+Cau hoi 4
+a,b,c,d
+a
+Cau hoi 5
+a,b,c,d
+b
+Cau hoi 6
+a,b,c,d
+d

@@ -1,0 +1,17 @@
+Trung binh
+7.Day la doan van(conversation) gom 5 cau hoi
+Cau hoi 1
+a,b,c,d
+a
+Cau hoi 2
+a,b,c,d
+d
+Cau hoi 3
+a,b,c,d
+a
+Cau hoi 4
+a,b,c,d
+d
+Cau hoi 5
+a,b,c,d
+b

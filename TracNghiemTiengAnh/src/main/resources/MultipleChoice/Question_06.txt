@@ -1,0 +1,11 @@
+6.Cau hoi Multiple Choice 6
+a,b,c,d,e,f
+d
+Dong tu
+Kho
+Ghi chu phuong an a
+Ghi chu phuong an b
+Ghi chu phuong an c
+Ghi chu phuong an d
+Ghi chu phuong an e
+Ghi chu phuong an f

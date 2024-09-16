@@ -1,0 +1,14 @@
+Kho
+4.Day la doan van(conversation) gom 4 cau hoi
+Cau hoi 1
+a,b,c,d
+a
+Cau hoi 2
+a,b,c,d
+b
+Cau hoi 3
+a,b,c,d
+c
+Cau hoi 4
+a,b,c,d
+c

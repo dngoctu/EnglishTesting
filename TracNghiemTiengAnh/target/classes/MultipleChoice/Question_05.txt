@@ -1,0 +1,9 @@
+5.Cau hoi Multiple Choice 5
+a,b,c,d
+b
+Tinh tu
+De
+Ghi chu phuong an a
+Ghi chu phuong an b
+Ghi chu phuong an c
+Ghi chu phuong an d

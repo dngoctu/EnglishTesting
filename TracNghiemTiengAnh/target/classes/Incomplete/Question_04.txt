@@ -1,0 +1,14 @@
+De
+4.Day la doan van(incomplete) gom 4 khoang trong
+Cau hoi 1
+a,b,c,d
+a
+Cau hoi 2
+a,b,c,d
+b
+Cau hoi 3
+a,b,c,d
+c
+Cau hoi 4
+a,b,c,d
+c

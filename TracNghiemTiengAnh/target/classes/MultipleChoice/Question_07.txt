@@ -1,0 +1,7 @@
+7.Cau hoi Multiple Choice 7
+a,b,
+b
+Danh tu
+Kho
+Ghi chu phuong an a
+Ghi chu phuong an b
